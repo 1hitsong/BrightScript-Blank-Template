@@ -1,1 +1,2 @@
-# BrightScript Blank Template
+# Roku Channel Blank Template
+## BrightScript / SceneGraph template
